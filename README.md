@@ -5,8 +5,8 @@ SharpPHP
 
 引用的其他库
 ========
-[Daject](https://github.com/kasonyang/Daject)
-[Smarty](http://www.smarty.net/)
+* [Daject](https://github.com/kasonyang/Daject)
+* [Smarty](http://www.smarty.net/)
 
 LICENSE
 ========
